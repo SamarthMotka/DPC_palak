@@ -17,13 +17,17 @@ This project is a front-end website built using HTML and CSS. It features a form
 1.  Download repository
 2.  Uncompress to your desired directory
 
-## start prject
+## start project
 1. open the downloaded directory in vscode.
-2. Your are free to make changes
+2. You are free to make changes
 
 ## Bugs or improvements
 
 Every project needs improvements, Feel free to report any bugs or improvements. Pull requests are always welcome.
+
+## Screenshots
+
+![Screenshot](https://imgur.com/oiVRxjA)
 
 
 
