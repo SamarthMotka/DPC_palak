@@ -27,7 +27,7 @@ Every project needs improvements, Feel free to report any bugs or improvements. 
 
 ## Screenshots
 
-![Screenshot](https://imgur.com/oiVRxjA)
+![ScreenShot](https://i.imgur.com/oiVRxjA.png)
 
 
 
